@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dia Dos namorados 2.0", "Dia Dos namorados 2.0.csproj", "{BA7AF662-B812-4802-950A-206C1BAA1570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7AF662-B812-4802-950A-206C1BAA1570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7AF662-B812-4802-950A-206C1BAA1570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7AF662-B812-4802-950A-206C1BAA1570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7AF662-B812-4802-950A-206C1BAA1570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F4168D1-8645-41B8-A23B-83779B7585C4}
+	EndGlobalSection
+EndGlobal
